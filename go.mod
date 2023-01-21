@@ -1,4 +1,4 @@
-module EventStore
+module github.com/abhirajranjan/eventstore
 
 go 1.19
 
